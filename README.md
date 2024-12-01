@@ -4,6 +4,8 @@
 Get an API Key for free at: https://www.currencyconverterapi.com and put this key in _api_key.txt_ 
 without a new line.
 
+Install all requirements from the _requirements.txt_ file using the command `pip install -r requirements.txt` in the project directory.
+
 ### Running the Script
 The script can be run with two methods:
 
