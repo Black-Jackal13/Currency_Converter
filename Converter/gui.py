@@ -6,7 +6,7 @@ from converter import get_currencies, convert
 class Converter(QMainWindow):
     def __init__(self):
         super(Converter, self).__init__()
-        uic.loadUi('gui.ui', self)
+        uic.loadUi('gui/gui.ui', self)
         self.setWindowTitle('Currency Converter')
         self.show()
 

@@ -29,12 +29,12 @@
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>81</width>
+      <width>141</width>
       <height>16</height>
      </rect>
     </property>
     <property name="text">
-     <string>Currencies</string>
+     <string>Available Currencies</string>
     </property>
    </widget>
    <widget class="QPushButton" name="convert_button">
